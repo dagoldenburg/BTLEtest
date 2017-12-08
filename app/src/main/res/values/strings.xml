@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BLE UART and Micro-bit</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">Bluetooth Low Energy, BLE, is not supported</string>
+    <string name="title_activity_device_scan">Device Scan</string>
+    <string name="title_activity_device">Device information</string>
+    <string name="uart_sensor_info">UART service</string>
+</resources>
